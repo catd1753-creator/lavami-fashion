@@ -1,0 +1,6 @@
+{
+  "name": "Lavami WiFi Shop",
+  "description": "Secure mobile-first WiFi voucher shop for Lavami Fashion MikroTik hotspot at Kumasi IPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
